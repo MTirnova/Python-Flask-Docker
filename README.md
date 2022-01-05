@@ -1,0 +1,1 @@
+Arkadaşlar merhaba, Python Flask ile oluşturduğumuz bir uygulamanın Dockerfile dosyası ile imageini oluşturup ardından bir container içerisinde çalışmasını sağlayacağım. Detaylı bilgi için https://medium.com/@mustafa.tirnova adresindeki yazıma bakabilirsiniz.
